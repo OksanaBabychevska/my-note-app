@@ -31,6 +31,7 @@ code {
   border-radius: 10px;
   padding: 1rem;
   min-height: 170px;
+  white-space: pre-wrap;
   -webkit-box-shadow: 9px 10px 20px 0px rgba(0,0,0,0.21);
   -moz-box-shadow: 9px 10px 20px 0px rgba(0,0,0,0.21);
   box-shadow: 9px 10px 20px 0px rgba(0,0,0,0.21);
